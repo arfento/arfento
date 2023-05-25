@@ -2,7 +2,6 @@
 👋 Hi, I’m Lakdar Arfento
 <br>🔭 I’m currently working as Flutter Developer
 <br>🌱 I’m currently learning Flutter
-<br>📫 How to reach me https://www.linkedin.com/in/lakdar-arfento/
 
 
 ## 🌐 Socials:
