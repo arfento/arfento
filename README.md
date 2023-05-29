@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Lakdar Arfento
+👋 Hi, I’m Lakdar Arfento, I'm a software developer who has programming skills and interested in mobile application development, especially Android using Flutter framework.
 <br>🔭 I’m currently working as Flutter Developer
 <br>🌱 I’m currently learning Flutter
 
